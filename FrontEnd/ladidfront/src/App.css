@@ -1,0 +1,10 @@
+/* tailwind.css */
+/* tailwind.css */
+/* Apply Tailwind base styles */
+@tailwind base;
+/* Apply Tailwind components styles */
+@tailwind components;
+/* Apply Tailwind utilities */
+@tailwind utilities;
+/* Custom styles */
+/* Font Family */
